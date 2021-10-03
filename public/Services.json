@@ -1,0 +1,61 @@
+[
+  {
+    "id": "emp121",
+    "name": "MODERN CAMPUS",
+    "description": "Modern Campus empowers higher education institutions to thrive when radical change is required to meet—and exceed—the requirements of modern learners.",
+    "image": "https://media.istockphoto.com/vectors/public-school-line-icon-illustration-vector-id1072260958?k=20&m=1072260958&s=612x612&w=0&h=-6fvi681k5uuHuo2dYUYrxRQXRczYaKjp-J_y8xwgQU="
+  },
+  {
+    "id": "emp152",
+    "name": "GRADUATE UNIVERSITY",
+    "description": "Many universities award graduate degrees; a graduate school is not necessarily a separate institution.Those attending graduate schools are called graduate ",
+    "image": "https://www.seekpng.com/png/full/351-3513773_graduation-ceremony-graduate-university-academic-degree-alumni-icon.png"
+  },
+  {
+    "id": "emp173",
+    "name": "BUS SERVICE",
+    "description": "The University of Greenwich runs an inter-campus bus service for students to travel between each campus. Discover how the bus service operates.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxkwbKNcCxoMqechiKY8Gg-2bSxJ9KIQOhi3Xv58XmfDeJNUdG4Jv8T3aAW5U62K9YkY&usqp=CAU"
+  },
+
+  {
+    "id": "emp182",
+    "name": "Required Documents",
+    "description": "Preview a list of the documents WES requires from you and your institution to start your credential evaluation",
+    "image": "https://previews.123rf.com/images/ankudi/ankudi1910/ankudi191000310/132527810-documents-icon-vector-write-and-read-document.jpg"
+  },
+  {
+    "id": "emp192",
+    "name": "Degree Equivalency",
+    "description": "See how your credentials compare to U.S. standards.See how your credentials compare to U.S. standards.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReWYZC8_UVRaQkwuqsxEjiBPa7Y6NcZJgdzQ&usqp=CAU"
+  },
+
+  {
+    "id": "wmp192",
+    "name": "WES iGPA Calculator",
+    "description": "See how your grades compare on a 4.0 grading scale.requires from you and your institution to start your",
+    "image": "https://applications.wes.org/images/icons/instituional_igpa_icon.png"
+  },
+  {
+    "id": "cmp122",
+    "name": "WES iGPA Calculator for Institutions",
+    "description": "The WES iGPA Calculator provides partners with instant grade conversion and GPA calculation",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8im8C4yaVQAyBFQY3jNtH5bXmtU2Ok34fCRsQ9mcj9p3EtnWVlWMXXJac2Td0uT6F8A8&usqp=CAU"
+  },
+  {
+    "id": "dmp122",
+    "name": "Country Resources",
+    "description": "Explore our free international education resources for higher education professionals.",
+    "image": "https://www.icon0.com/vectors/static2/preview2/stock-photo-country-house-icon-14047.jpg"
+  },
+
+  {
+    "id": "hmp122",
+    "name": "AccessWES",
+    "description": "AccessWES is the secure online delivery system we use to deliver WES Evaluation Reports",
+    "image": "https://cdn-icons-png.flaticon.com/512/1792/1792139.png"
+  }
+  
+
+]
